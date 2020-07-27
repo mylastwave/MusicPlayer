@@ -21,11 +21,11 @@ self.file_path = os.getcwd() + r'\core\spider\spider_files\playlist_{}.csv'.form
 + python版本：3.7
 ***
 #### 第三方包
-PyQt5
-pygame
-mutagen
-requests
-selenium
++ PyQt5
++ pygame
++ mutagen
++ requests
++ selenium
 >运行报了缺少什么包直接装就完事了
 
 ***
