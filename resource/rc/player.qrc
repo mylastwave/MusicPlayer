@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="player">
+    <file>../images/next_song.png</file>
+    <file>../images/pause_play.png</file>
+    <file>../images/pre_song.png</file>
+    <file>../images/unpause_play.png</file>
+  </qresource>
+</RCC>

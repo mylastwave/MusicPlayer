@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="search">
+    <file>../images/search_le1.jpg</file>
+    <file>../images/search_le2.jpg</file>
+  </qresource>
+</RCC>
