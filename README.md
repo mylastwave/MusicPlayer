@@ -17,8 +17,8 @@ self.file_path = os.getcwd() + r'\core\spider\spider_files\playlist_{}.csv'.form
 
 ***
 #### 开发环境
-IDE：pycharm 2019.3 x64
-python版本：3.7
++ IDE：pycharm 2019.3 x64
++ python版本：3.7
 ***
 #### 第三方包
 PyQt5
