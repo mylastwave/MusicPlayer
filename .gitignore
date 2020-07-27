@@ -129,7 +129,7 @@ dmypy.json
 .pyre/
 
 # 忽略下载的音乐文件
-music/*
+**/music/*
 
 # 忽略缓存的歌单图片
-playlist_pic/*
+**/playlist_pic/*
